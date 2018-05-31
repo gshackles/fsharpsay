@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>FSharpSay</RootNamespace>
+    <PackAsTool>true</PackAsTool>
+
+    <Description>fsharpsay is a configurable talking F# logo</Description>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>gshackles</Authors>
+    <Title>fsharpsay</Title>
+    <Copyright>2018 Greg Shackles</Copyright>
+    <PackageLicenseUrl>https://github.com/gshackles/fsharpsay/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/gshackles/fsharpsay/blob/master/README.md</PackageProjectUrl>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
