@@ -11,8 +11,8 @@
     <Authors>gshackles</Authors>
     <Title>fsharpsay</Title>
     <Copyright>2018 Greg Shackles</Copyright>
-    <PackageLicenseUrl>https://github.com/gshackles/fsharpsay/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/gshackles/fsharpsay/blob/master/README.md</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/gshackles/fsharpsay/blob/main/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/gshackles/fsharpsay/blob/main/README.md</PackageProjectUrl>
 
   </PropertyGroup>
 
